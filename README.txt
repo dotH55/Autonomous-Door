@@ -1,5 +1,9 @@
-**Autonomous Door
-For this project, I have created a system to 
-open and close a door via bluetooth.
-This project utilizes two files (bt_rssi.py & __init__.py) from a 
-github user Ewen Chou
+
+Description
+A door System to automatically unlock, lock, open & close a door 
+via Bluetooth proximity. The code for this project was written 
+in Python.
+
+Youtube Link: https://www.youtube.com/watch?v=FPFEoTOiD7E
+
+Github Link: https://github.com/dotH55/Autonomous-Door
