@@ -1,5 +1,4 @@
-
-Description
+# Autonomous-Door
 A door System to automatically unlock, lock, open & close a door 
 via Bluetooth proximity. The code for this project was written 
 in Python.
